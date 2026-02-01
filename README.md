@@ -24,3 +24,8 @@ can be reconstructed from EEG signals using machine learning.
 
 ## Notes
 Progress updates will be added weekly.
+
+
+## Week1
+Set up Python and Jupyter lab and plan more about detailed things. 
+
