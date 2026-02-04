@@ -38,4 +38,6 @@ Progress updates will be added weekly.
 - Plotted scalp topographies using both single-time-point data and time-averaged data
 - Visualized arrow maps to represent spatial signal patterns
 - Created joint plots combining butterfly plots and scalp topographies
-- 
+- Compared multiple Evoked objects to analyze condition-based differences
+- Generated image plots for spatial-temporal signal inspection
+- Explored 3D field maps for three-dimensional visualization of EEG activity
