@@ -40,4 +40,3 @@ Progress updates will be added weekly.
 - Created joint plots combining butterfly plots and scalp topographies
 - Compared multiple Evoked objects to analyze condition-based differences
 - Generated image plots for spatial-temporal signal inspection
-- Explored 3D field maps for three-dimensional visualization of EEG activity
